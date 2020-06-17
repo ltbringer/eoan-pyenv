@@ -29,5 +29,5 @@ To serve my purpose, be aware of time related pitfalls.
 ## Dockerhub
 The image can be accessed via Dockerhub like so:
 ```
-docker pull ltbringer/eoan-pyenv:1.0.0
+docker pull ltbringer/eoan-pyenv:latest
 ```
